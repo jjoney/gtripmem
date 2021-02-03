@@ -1,9 +1,14 @@
+
 body {
     font-family: "Avenir Next";
 }
 
 h1 {
-    color: #ff0000;
+    background-color: #2497b9;
+    color: #ffffff;
+    width: 700px;
+    height: 80px;
+    padding: 40px 20px;
 }
 
 a {
